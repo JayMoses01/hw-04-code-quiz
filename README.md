@@ -32,4 +32,4 @@ Referenced URL: https://github.com/jamierachael/Code-Quiz
 
 # URL of the deployed application
 
-URL: 
+URL: https://jaymoses01.github.io/hw-04-code-quiz/
