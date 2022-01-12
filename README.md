@@ -10,7 +10,7 @@ This is a JavaScript coding quiz containing this functionality:
 * The user can clear the high score list and/or return to the quiz.
 
 
-* Dislaimer
+# Dislaimer
 
 I referenced the work from the below URL for much of the JavaScript used in this assignment. I used this assignment as a learning opportunity to advance my understanding of recent course topics. I wanted to make sure that I called this out and give credit where it is due.
 
