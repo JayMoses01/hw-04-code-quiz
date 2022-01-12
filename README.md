@@ -17,7 +17,7 @@ I referenced the work from the below URL for much of the JavaScript used in this
 Referenced URL: https://github.com/jamierachael/Code-Quiz
 
 
-# Screenshots of deployed password generator
+# Screenshots of deployed code quiz
 
 ![image](https://user-images.githubusercontent.com/95326705/149085191-9d69889b-83b5-4bb2-ad75-bb2766ad9d96.png)
 
